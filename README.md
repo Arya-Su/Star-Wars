@@ -2,7 +2,7 @@
 
 Guess what? I couldn't resist improving the previous Space Invaders game. I have changed the entire appearance of the game; the Star Wars theme dominates. Also, I improved the technical part of the game. The most important changes for me are:
 
-1. Intro: (A long time ago in a galaxy far, far away...
+1. Intro: (A long time ago in a galaxy far, far away...)
 
 2. Appearance of ships
 
